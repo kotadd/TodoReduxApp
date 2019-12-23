@@ -1,2 +1,0 @@
-# TodoReduxApp
-Created with CodeSandbox
